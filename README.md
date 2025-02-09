@@ -4,11 +4,11 @@
 This project is a web application that utilizes the OpenAI API to provide an AI-powered restaurant assistant. The application allows users to search for restaurants, view menu details, and receive intelligent recommendations based on their queries. The backend is built using Flask, while the frontend is developed with HTML, CSS, and JavaScript.
 
 <p align="center">
-  <img src="static/1.PNG" width="200">
-  <img src="static/2.PNG" width="200">
+  <img src="static/1.PNG" width="400">
+  <img src="static/2.PNG" width="400">
   <br>
-  <img src="static/3.PNG" width="200">
-  <img src="static/4.PNG" width="200">
+  <img src="static/3.PNG" width="400">
+  <img src="static/4.PNG" width="400">
 </p>
 
 ---
