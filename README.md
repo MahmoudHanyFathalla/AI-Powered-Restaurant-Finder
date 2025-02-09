@@ -5,7 +5,7 @@ This project is a web application that utilizes the OpenAI API to provide an AI-
 
 <p align="center">
   <img src="static/1.PNG" width="400">
-  <img src="static/2.PNG" width="400">
+  
   <br>
   <img src="static/3.PNG" width="400">
   <img src="static/4.PNG" width="400">
